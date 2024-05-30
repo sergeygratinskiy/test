@@ -20,3 +20,4 @@ if __name__ == "__main__":
     while True:
         print("включён на просмотр")
         wave_hand()
+        
